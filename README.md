@@ -31,8 +31,7 @@
 &nbsp;
 &nbsp;
 
-![snake gif](https://github.com/AquielRocha/AquielRocha/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/mariakarolinesvg/mariakarolinesvg/blob/output/github-contribution-grid-snake.svg)
 ## Contacts:
 
 <div> 
