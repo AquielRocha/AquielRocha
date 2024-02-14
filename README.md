@@ -1,7 +1,6 @@
 <p align="center">Hello! My name is Aquiel, I'm 21 years old and I've been passionate about technology since childhood. I'm always seeking knowledge and constantly improving my skills. I'm a fullstack developer, capable of handling both backend and frontend development.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aquielrocha&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-aquielrocha.vercel.app/api/top-langs/?username=aquielrocha&show_icons=true&theme=radical&layout=compact" />
 </div>
 
